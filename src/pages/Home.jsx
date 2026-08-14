@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from 'react';
-import { getPopularMovies, searchMovies } from '../services/tmdb';
+import { getPopularMovies, searchMovies } from '../services/omdb';
 import MovieCard from '../components/MovieCard';
 import SearchBar from '../components/SearchBar';
 import MoodMatcher from '../components/MoodMatcher';
