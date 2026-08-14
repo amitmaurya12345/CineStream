@@ -57,7 +57,7 @@ cine-stream/
 │   │   └── Home.jsx            # Main catalog, search, & infinite scroll feed
 │   ├── services/
 │   │   ├── gemini.js           # Google Gen AI SDK initialization & prompt pipeline
-│   │   └── tmdb.js             # OMDb API service wrapper & response normalization
+│   │   └── omdb.js             # OMDb API service wrapper & response normalization
 │   ├── styles/
 │   │   └── App.css             # Centralized design tokens & responsive rules
 │   ├── App.jsx                 # App root & tab router
